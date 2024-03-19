@@ -7,6 +7,4 @@ This dataset includes a record of the date, time, location, depth, magnitude, an
 
 dataset link :https://www.kaggle.com/datasets/usgs/earthquake-database
 
-Create By Eng : Ahmed Adel Sayed & sohaila nasr mohamed
-
-Ahmed Adel Sayed:https://github.com/Ahmed-Adel99 
+Create By Eng : Ahmed Adel Sayed & sohaila nasr mohamed 
